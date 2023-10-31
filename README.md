@@ -1,6 +1,16 @@
 # Non-Automatic-Reload-Script
 This is a Non Automatic Reload Script For fivem!
 
+I Hope you Enjoy the Script Made by myself Feel free to go Check out My Socials Below
+
+Socials:
+Golden Valley Rp Discord:https://discord.gg/4f2bCXdVcR
+
+My Discord:https://discord.gg/9jpQ6qxHsW
+
+My Tiktok: https://www.tiktok.com/@teddyisthebest224
+
+
 How To Install: 
 
 Step 1:Make Sure you have a Fxserver or are renting or Own a fivem server from a Server hosting
