@@ -4,11 +4,9 @@ This is a Non Automatic Reload Script For fivem!
 I Hope you Enjoy the Script Made by myself Feel free to go Check out My Socials Below
 
 Socials:
-Golden Valley Rp Discord:https://discord.gg/4f2bCXdVcR
+Greater Atlanta Roleplay: https://discord.gg/ztKxF4sK8c
 
-My Discord:https://discord.gg/9jpQ6qxHsW
-
-My Tiktok: https://www.tiktok.com/@teddyisthebest224
+My Discord: https://discord.gg/JzhaShHqa3
 
 
 How To Install: 
@@ -28,3 +26,5 @@ Step 3: Go to https://docs.fivem.net/docs/game-references/controls/ and Find the
 Step 4: Go back to the client.lua and change the Number 45 to A Different Number
 Step 5: Refresh your files then Restart the File and now the Keybind will be The One you Changed it to!
 
+
+RECENT UPDATE: 9/23/25
